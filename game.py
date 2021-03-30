@@ -177,3 +177,21 @@ class Game:
 
 game = Game()
 game.start_game()
+
+"""
+Hello world this is a recording with some new settings.
+Basically i have changed my encoder.
+Now lets try and see what are the problems that we face.
+
+By no we have no issues like encoder overloading or something.
+No now lets create some dummy methods and run it
+"""
+
+
+def hello_world():
+    print("hello world this is vikas rai from VR CODES")
+    inp = input("Please type your name")
+    print(f"Welcome to our application {inp}")
+
+
+hello_world()
